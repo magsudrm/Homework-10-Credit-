@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    text-align: center;
+}
+input{
+    width: 30%;
+    padding: 1rem 0;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+select{
+    width: 30%;
+    padding: 1rem 0;
+    border-radius: 10px;
+}
